@@ -14,7 +14,8 @@ Therefore, the goal for Data Analyst is to create a dashboard on the churn situa
 <img width="669" alt="Screenshot 2023-07-03 at 09 04 02" src="https://github.com/ngocminhantran/User-Churn-Analysis/assets/130781119/b56deb39-e36e-48f7-99d0-2922259e7626">
 
 ## Dashboard
-![User Churn Dashboard](https://github.com/ngocminhantran/User-Churn-Analysis/assets/130781119/32699c48-0e53-475e-beef-2d15039d675a)
+<img width="1201" alt="Churn User 1" src="https://github.com/ngocminhantran/User-Churn-Analysis/assets/130781119/57123e59-8c32-4c7d-b88b-6322b9db8394">
+<img width="1200" alt="Screenshot 2023-07-03 at 09 33 06" src="https://github.com/ngocminhantran/User-Churn-Analysis/assets/130781119/da2fe07c-1400-4012-aa61-20b927e3ee5b">
 
 ## Insights and recommendation
 ### Insights
