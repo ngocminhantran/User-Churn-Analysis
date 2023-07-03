@@ -11,6 +11,7 @@ Therefore, the goal for Data Analyst is to create a dashboard on the churn situa
 2. Create a PowerBI Dashboard.
 3. Give insights and recommendations.
 ## Design Thinking spreadsheet
+<img width="669" alt="Screenshot 2023-07-03 at 09 04 02" src="https://github.com/ngocminhantran/User-Churn-Analysis/assets/130781119/b56deb39-e36e-48f7-99d0-2922259e7626">
 ## Dashboard
 ## Insights and recommendation
 ### Insights
