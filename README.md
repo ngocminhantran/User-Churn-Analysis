@@ -32,12 +32,17 @@ Most important trigger for churn users is Competitor (~45%) whether filtering by
 ## Recommendations
 There are 4 churn categories:
 (1) Competitor (biggest category)
+
 - Conduct competitor analysis to compare the company with its competitors, and thus find solutions to stand out.
+
 (2) Product
+
 - Conduct surveys to find out what causes the dissatisfaction with the product.
 - Work with the R & D department to find out the way to improve the current product.
+
 (3) Customer services
 - Check out how the customer services team is doing. Can the team performance be improved via new rules or incentives?
+
 (4) Price
 - Conduct competitor analysis.
 - Re-evaluate pricing model: consider offering different price options for different customer tenure groups.
